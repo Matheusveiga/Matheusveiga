@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao meu perfil😁
 
+Sou desenvolvedor back-end, mas estou explorando meu caminho para fullstack e atualmente buscando uma oportunidade como desenvolvedor .NET. Tenho 28 anos e estou apaixonado por aprender novas tecnologias e criar soluções eficientes.
+
  <div>
    <a href="https://github.com/Matheusveiga">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusveiga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
