@@ -1,13 +1,42 @@
 ## Bem-vindo(a) ao meu perfil😁
 
-Sou desenvolvedor back-end, mas estou explorando meu caminho para fullstack e atualmente buscando uma oportunidade como desenvolvedor .NET. Tenho 28 anos e estou apaixonado por aprender novas tecnologias e criar soluções eficientes.
 
- <div>
-   <a href="https://github.com/Matheusveiga">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusveiga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusveiga&layout=compact&langs_count=6&theme=tokyonight"/>
+# Olá, sou Matheus Veiga! 👨‍💻
 
-</div>
+## 👨‍💻 Quem sou eu?
+
+Sou um desenvolvedor apaixonado por tecnologias .NET, especialmente com foco em **backend**, mas estou em transição para **fullstack**. Meu objetivo é adquirir experiência profissional e contribuir para projetos incríveis.
+
+## 🌱 O que estou aprendendo?
+
+- Desenvolvendo habilidades em **ASP.NET**, **C#**, **Entity Framework** e **JavaScript**.
+- Explorando soluções fullstack com **React** e **Node.js**.
+- Aprendendo boas práticas de **arquitetura de software** e **testes automatizados**.
+
+## 🧩 Projetos em destaque
+
+### [LH_PET](https://github.com/Matheusveiga/LH_PET)
+
+- Um sistema de gestão para clínicas veterinárias desenvolvido com **ASP.NET MVC**.
+- Funcionalidades como cadastro de clientes e agendamento de consultas.
+- Projeto em andamento com planos de adicionar mais recursos como prontuário veterinário e notificações.
+
+### [WebAPI](https://github.com/Matheusveiga/WebAPI)
+
+- API RESTful simples utilizando **C#** e **ASP.NET Core**.
+- Proposta de exemplo para projetos de integração.
+
+## 📈 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheusveiga&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
+
+## 📬 Vamos conversar!
+
+- LinkedIn: [Matheus Veiga](https://www.linkedin.com/in/matheus-veiga-011566158)
+- E-mail: theus1025@gmail.com
+
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
