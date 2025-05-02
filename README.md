@@ -34,14 +34,6 @@ Sou um desenvolvedor apaixonado por tecnologias .NET, especialmente com foco em 
 
 - LinkedIn: [Matheus Veiga](https://www.linkedin.com/in/matheus-veiga-011566158)
 - E-mail: theus1025@gmail.com
-
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
  
  <br>
  
