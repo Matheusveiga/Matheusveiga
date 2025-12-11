@@ -33,15 +33,6 @@ Tenho paixão por construir aplicações seguras e escaláveis, aplicando boas p
 - **Descrição:** API RESTful de exemplo para integrações.
 - **Tech Stack:** C# e ASP.NET Core.
 
-## 📈 Estatísticas do GitHub
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusveiga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusveiga&layout=compact&theme=tokyonight"/>
-</div>
-
 ## 📬 Vamos conversar!
 
 - **LinkedIn:** [Matheus Veiga](https://www.linkedin.com/in/matheus-veiga-011566158)
