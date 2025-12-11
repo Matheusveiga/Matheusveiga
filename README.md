@@ -35,7 +35,12 @@ Tenho paixão por construir aplicações seguras e escaláveis, aplicando boas p
 
 ## 📈 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheusveiga&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusveiga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusveiga&layout=compact&theme=tokyonight"/>
+</div>
 
 ## 📬 Vamos conversar!
 
